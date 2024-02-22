@@ -12,11 +12,11 @@ Welcome to our wedding invitation website repository! This project is built with
 
 With the divine grace of the Almighty,
 I cordially invite you and your family to
-my wedding to be held on **04th December at [jangid bhawan](https://maps.app.goo.gl/wPVwUUrKnYUMy24D7), Akola from 7:00 PM** onwards.
+my wedding to be held on **28th April at [Radhe Park](https://maps.app.goo.gl/JjQZRTSgwJJAB6kz7), Navsari from 9:00 AM** onwards.
 
 - [Download](invitation/widding-invitation-04-Dec.pdf) the Invitation card
 
-- Find [venue](https://maps.app.goo.gl/wPVwUUrKnYUMy24D7) on Google map
+- Find [venue](https://maps.app.goo.gl/JjQZRTSgwJJAB6kz7) on Google map
 
 - Visit the [website](https://Dinesh-Sneha-wedding-invite.web.app/) for more details
 
