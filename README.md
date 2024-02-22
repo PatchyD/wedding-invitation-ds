@@ -14,7 +14,7 @@ With the divine grace of the Almighty,
 I cordially invite you and your family to
 my wedding to be held on **28th April at [Radhe Park](https://maps.app.goo.gl/JjQZRTSgwJJAB6kz7), Navsari from 9:00 AM** onwards.
 
-- [Download](invitation/widding-invitation-04-Dec.pdf) the Invitation card
+- [Download](invitation/widding-invitation-28-april.pdf) the Invitation card
 
 - Find [venue](https://maps.app.goo.gl/JjQZRTSgwJJAB6kz7) on Google map
 
@@ -36,7 +36,7 @@ my wedding to be held on **28th April at [Radhe Park](https://maps.app.goo.gl/Jj
 1. Clone this repository.
 
 ```
-git clone https://github.com/aarjaycreation/Wedding-Invitation.git
+git clone https://github.com/PatchyD/wedding-invitation-ds.git
 ```
 
 2. Customize the CSS color scheme to match your wedding theme.
@@ -174,5 +174,4 @@ Feel free to explore the code, make it your own, and use it as a template for yo
 <br><br><br>
 
 #### With warm regards, <br>
-
-[aarjaycreation](https://aarjaycreation.com/)
+Dinesh Patil
