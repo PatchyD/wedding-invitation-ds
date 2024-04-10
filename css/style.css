@@ -485,7 +485,7 @@ body.light-mode {
 }
 
 body.dark-mode {
-	background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+	background-image: linear-gradient(62deg, #f1895d 0%, #c3fce4 100%)
 }
 
 img {
@@ -535,7 +535,7 @@ img {
 	font-style: normal;
 	font-size: 60px;
 	margin: 32px 0;
-	color: var(--primary-color);
+	color: hsl(0deg 1.09% 32.56%);
 }
 
 .title h2 {
@@ -554,7 +554,7 @@ img {
 	font-weight: bolder;
 	font-style: normal;
 	font-size: 32px;
-	color: var(--primary-color);
+	color: hsl(0deg 48.05% 48.61%);
 	margin: 16px;
 	text-align: center;
 }
@@ -564,12 +564,12 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 24px;
-	color: var(--primary-color);
+	color: hsl(30.46deg 100% 35.67%);
 	margin-top: 5px;
 }
 
 .title p {
-	color: var(--primary-color);
+	color: hsl(30.46deg 100% 35.67%);
 	margin: 30px 0 20px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -611,7 +611,7 @@ img {
 .venue {
 	width: auto;
 	height: auto;
-	background-color: var(--primary-color);
+	background-color: hsl(0deg 69% 61%);
 	border-radius: .75rem;
 	text-align: center;
 	color: #fff;
@@ -683,7 +683,7 @@ img {
 
 .CTA,
 .CTA a {
-	color: var(--primary-color);
+	color: hsl(74.77deg 92.21% 6.96%);
 	text-align: center;
 	font-size: 16px;
 	margin: 24px;
@@ -749,7 +749,7 @@ a {
 }
 
 .footer span {
-	color: var(--primary-color);
+	color: hsl(0deg 76.43% 16.16%);
 
 }
 
@@ -762,8 +762,8 @@ a {
 
 .newsletter__description {
 	z-index: var(--noindex);
-	color: var(--second-color);
-	font-size: 16px;
+	color: hsl(12.74deg 64.89% 17.29%);
+	font-size: 18px;
 	text-align: center;
 	margin: 0 1.5rem 1rem 1.5rem;
 }
@@ -897,7 +897,7 @@ blockquote::after {
 }
 
 .responsive-table {
-	color: var(--primary-color);
+	color: hsl(74.77deg 92.21% 6.96%);
 	border-collapse: collapse;
 	border-radius: 10px;
 	width: 100%;
@@ -1216,6 +1216,7 @@ a {
 	text-shadow: 0px 16px 10px rgba(0, 0, 0, 0.3);
 	transform: translate(0, -8);
 }
+
 
 /* Gallary Style */
 
